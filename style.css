@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/158c4532-1ab3-4ce5-8ed4-f59ce7e847d2/O.B.+Montessori+Center+Greenhills+Campus");
+}
+
+form{
+    border-radius: 10px;
+}
+
+th{
+    text-align: center;
+}
+
+.table{
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container{
+    border-radius:10px;
+}
+
+.blurred-image{
+    filter: blur(5px);
+}
